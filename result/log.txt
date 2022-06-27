@@ -1,0 +1,118 @@
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция заголовка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция подзаголовка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция параграфа в ячейке таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeTableAdoc
+INFO: Успешная миграция таблицы
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция подзаголовка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция подзаголовка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeListAdoc
+INFO: Успешная миграция элемента списка
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
+июн. 27, 2022 3:41:40 PM Docx2Adoc writeAdoc
+INFO: Успешная миграция параграфа
+июн. 27, 2022 3:41:40 PM Docx2Adoc writePictureAdoc
+INFO: Успешная миграция иллюстрации
